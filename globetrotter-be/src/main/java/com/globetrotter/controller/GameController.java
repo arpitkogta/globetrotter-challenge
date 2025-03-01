@@ -35,7 +35,8 @@ public class GameController {
         }
 
         User user = userOpt.get();
-        GameSession session = gameSessionService.createSession(user);
+        Optional<GameSession> activeSessionOpt = gameSessionService.findActiveSessionForUser(user);
+        GameSession session= activeSessionOpt.orElseGet(() -> gameSessionService.createSession(user));
 
         Destination destination = destinationService.getRandomDestination();
         List<String> clues = destinationService.getRandomClues(destination, 2);
