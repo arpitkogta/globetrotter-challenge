@@ -1,0 +1,1090 @@
+[
+    {
+        "city": "Delhi",
+        "country": "India",
+        "clues": [
+            "This city is home to the world's tallest brick minaret.",
+            "The capital of a country known for its diverse culture and history."
+        ],
+        "fun_fact": [
+            "Delhi has the world's largest spice market, Khari Baoli, which has existed since the 17th century!",
+            "The Lotus Temple in Delhi is one of the few Bahá'í Houses of Worship in the world."
+        ],
+        "trivia": [
+            "The Red Fort in Delhi was once home to the famous Peacock Throne of the Mughal emperors.",
+            "Connaught Place, a major shopping hub, was inspired by Royal Crescent in Bath, England."
+        ]
+    },
+    {
+        "city": "Mumbai",
+        "country": "India",
+        "clues": [
+            "This city is home to Bollywood, the world’s largest film industry.",
+            "It was originally a group of seven islands before land reclamation merged them together."
+        ],
+        "fun_fact": [
+            "Mumbai’s Dabbawalas deliver over 200,000 lunchboxes daily with an incredible 99.99% accuracy!",
+            "The Gateway of India was built to commemorate King George V’s visit in 1911."
+        ],
+        "trivia": [
+            "Mumbai’s local trains carry more passengers daily than the entire population of Australia!",
+            "The Bandra-Worli Sea Link has steel wires equal to the circumference of Earth."
+        ]
+    },
+    {
+        "city": "London",
+        "country": "United Kingdom",
+        "clues": [
+            "This city has a clock tower that is often mistaken for its bell.",
+            "It has the world’s oldest underground railway system."
+        ],
+        "fun_fact": [
+            "Big Ben is actually the name of the bell, not the tower!",
+            "London’s buses weren’t always red—they were color-coded for different routes until 1907."
+        ],
+        "trivia": [
+            "The London Eye can carry up to 800 passengers per rotation.",
+            "More than 300 languages are spoken in London, making it one of the most linguistically diverse cities in the world."
+        ]
+    },
+    {
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "clues": [
+            "Home to one of the Seven Wonders of the Modern World, a towering Christ statue.",
+            "Famous for its colorful Carnival and samba music."
+        ],
+        "fun_fact": [
+            "Rio's Copacabana Beach has a black-and-white wave-patterned pavement inspired by Portuguese designs.",
+            "The name ‘Rio de Janeiro’ means ‘January River’ in Portuguese, but there is no river there!"
+        ],
+        "trivia": [
+            "The Christ the Redeemer statue was struck by lightning in 2014 and lost a finger!",
+            "Sugarloaf Mountain got its name because it resembles a traditional shape of sugarloaves used in the 16th century."
+        ]
+    },
+    {
+        "city": "Bengaluru",
+        "country": "India",
+        "clues": [
+            "This city is famous for its bengaluru street food.",
+            "One of the most visited cities in India with a rich history."
+        ],
+        "fun_fact": [
+            "Bengaluru has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Bengaluru is a must-visit attraction."
+        ],
+        "trivia": [
+            "Bengaluru is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Bengaluru is one of the most efficient in India."
+        ]
+    },
+    {
+        "city": "Chennai",
+        "country": "India",
+        "clues": [
+            "This city is famous for its chennai street food.",
+            "One of the most visited cities in India with a rich history."
+        ],
+        "fun_fact": [
+            "Chennai has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Chennai is a must-visit attraction."
+        ],
+        "trivia": [
+            "Chennai is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Chennai is one of the most efficient in India."
+        ]
+    },
+    {
+        "city": "Kolkata",
+        "country": "India",
+        "clues": [
+            "This city is famous for its kolkata street food.",
+            "One of the most visited cities in India with a rich history."
+        ],
+        "fun_fact": [
+            "Kolkata has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Kolkata is a must-visit attraction."
+        ],
+        "trivia": [
+            "Kolkata is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Kolkata is one of the most efficient in India."
+        ]
+    },
+    {
+        "city": "Jaipur",
+        "country": "India",
+        "clues": [
+            "This city is famous for its jaipur street food.",
+            "One of the most visited cities in India with a rich history."
+        ],
+        "fun_fact": [
+            "Jaipur has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Jaipur is a must-visit attraction."
+        ],
+        "trivia": [
+            "Jaipur is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Jaipur is one of the most efficient in India."
+        ]
+    },
+    {
+        "city": "Hyderabad",
+        "country": "India",
+        "clues": [
+            "This city is famous for its hyderabad street food.",
+            "One of the most visited cities in India with a rich history."
+        ],
+        "fun_fact": [
+            "Hyderabad has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Hyderabad is a must-visit attraction."
+        ],
+        "trivia": [
+            "Hyderabad is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Hyderabad is one of the most efficient in India."
+        ]
+    },
+    {
+        "city": "Varanasi",
+        "country": "India",
+        "clues": [
+            "This city is famous for its varanasi street food.",
+            "One of the most visited cities in India with a rich history."
+        ],
+        "fun_fact": [
+            "Varanasi has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Varanasi is a must-visit attraction."
+        ],
+        "trivia": [
+            "Varanasi is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Varanasi is one of the most efficient in India."
+        ]
+    },
+    {
+        "city": "Agra",
+        "country": "India",
+        "clues": [
+            "This city is famous for its agra street food.",
+            "One of the most visited cities in India with a rich history."
+        ],
+        "fun_fact": [
+            "Agra has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Agra is a must-visit attraction."
+        ],
+        "trivia": [
+            "Agra is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Agra is one of the most efficient in India."
+        ]
+    },
+    {
+        "city": "Goa",
+        "country": "India",
+        "clues": [
+            "This city is famous for its goa street food.",
+            "One of the most visited cities in India with a rich history."
+        ],
+        "fun_fact": [
+            "Goa has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Goa is a must-visit attraction."
+        ],
+        "trivia": [
+            "Goa is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Goa is one of the most efficient in India."
+        ]
+    },
+    {
+        "city": "Kochi",
+        "country": "India",
+        "clues": [
+            "This city is famous for its kochi street food.",
+            "One of the most visited cities in India with a rich history."
+        ],
+        "fun_fact": [
+            "Kochi has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Kochi is a must-visit attraction."
+        ],
+        "trivia": [
+            "Kochi is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Kochi is one of the most efficient in India."
+        ]
+    },
+    {
+        "city": "Amritsar",
+        "country": "India",
+        "clues": [
+            "This city is famous for its amritsar street food.",
+            "One of the most visited cities in India with a rich history."
+        ],
+        "fun_fact": [
+            "Amritsar has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Amritsar is a must-visit attraction."
+        ],
+        "trivia": [
+            "Amritsar is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Amritsar is one of the most efficient in India."
+        ]
+    },
+    {
+        "city": "Udaipur",
+        "country": "India",
+        "clues": [
+            "This city is famous for its udaipur street food.",
+            "One of the most visited cities in India with a rich history."
+        ],
+        "fun_fact": [
+            "Udaipur has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Udaipur is a must-visit attraction."
+        ],
+        "trivia": [
+            "Udaipur is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Udaipur is one of the most efficient in India."
+        ]
+    },
+    {
+        "city": "Rishikesh",
+        "country": "India",
+        "clues": [
+            "This city is famous for its rishikesh street food.",
+            "One of the most visited cities in India with a rich history."
+        ],
+        "fun_fact": [
+            "Rishikesh has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Rishikesh is a must-visit attraction."
+        ],
+        "trivia": [
+            "Rishikesh is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Rishikesh is one of the most efficient in India."
+        ]
+    },
+    {
+        "city": "Pune",
+        "country": "India",
+        "clues": [
+            "This city is famous for its pune street food.",
+            "One of the most visited cities in India with a rich history."
+        ],
+        "fun_fact": [
+            "Pune has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Pune is a must-visit attraction."
+        ],
+        "trivia": [
+            "Pune is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Pune is one of the most efficient in India."
+        ]
+    },
+    {
+        "city": "London",
+        "country": "United Kingdom",
+        "clues": [
+            "This city is famous for its london street food.",
+            "One of the most visited cities in United Kingdom with a rich history."
+        ],
+        "fun_fact": [
+            "London has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in London is a must-visit attraction."
+        ],
+        "trivia": [
+            "London is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in London is one of the most efficient in United Kingdom."
+        ]
+    },
+    {
+        "city": "Rome",
+        "country": "Italy",
+        "clues": [
+            "This city is famous for its rome street food.",
+            "One of the most visited cities in Italy with a rich history."
+        ],
+        "fun_fact": [
+            "Rome has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Rome is a must-visit attraction."
+        ],
+        "trivia": [
+            "Rome is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Rome is one of the most efficient in Italy."
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "This city is famous for its sydney street food.",
+            "One of the most visited cities in Australia with a rich history."
+        ],
+        "fun_fact": [
+            "Sydney has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Sydney is a must-visit attraction."
+        ],
+        "trivia": [
+            "Sydney is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Sydney is one of the most efficient in Australia."
+        ]
+    },
+    {
+        "city": "Dubai",
+        "country": "UAE",
+        "clues": [
+            "This city is famous for its dubai street food.",
+            "One of the most visited cities in UAE with a rich history."
+        ],
+        "fun_fact": [
+            "Dubai has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Dubai is a must-visit attraction."
+        ],
+        "trivia": [
+            "Dubai is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Dubai is one of the most efficient in UAE."
+        ]
+    },
+    {
+        "city": "Istanbul",
+        "country": "Turkey",
+        "clues": [
+            "This city is famous for its istanbul street food.",
+            "One of the most visited cities in Turkey with a rich history."
+        ],
+        "fun_fact": [
+            "Istanbul has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Istanbul is a must-visit attraction."
+        ],
+        "trivia": [
+            "Istanbul is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Istanbul is one of the most efficient in Turkey."
+        ]
+    },
+    {
+        "city": "Bangkok",
+        "country": "Thailand",
+        "clues": [
+            "This city is famous for its bangkok street food.",
+            "One of the most visited cities in Thailand with a rich history."
+        ],
+        "fun_fact": [
+            "Bangkok has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Bangkok is a must-visit attraction."
+        ],
+        "trivia": [
+            "Bangkok is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Bangkok is one of the most efficient in Thailand."
+        ]
+    },
+    {
+        "city": "Seoul",
+        "country": "South Korea",
+        "clues": [
+            "This city is famous for its seoul street food.",
+            "One of the most visited cities in South Korea with a rich history."
+        ],
+        "fun_fact": [
+            "Seoul has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Seoul is a must-visit attraction."
+        ],
+        "trivia": [
+            "Seoul is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Seoul is one of the most efficient in South Korea."
+        ]
+    },
+    {
+        "city": "Toronto",
+        "country": "Canada",
+        "clues": [
+            "This city is famous for its toronto street food.",
+            "One of the most visited cities in Canada with a rich history."
+        ],
+        "fun_fact": [
+            "Toronto has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Toronto is a must-visit attraction."
+        ],
+        "trivia": [
+            "Toronto is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Toronto is one of the most efficient in Canada."
+        ]
+    },
+    {
+        "city": "Berlin",
+        "country": "Germany",
+        "clues": [
+            "This city is famous for its berlin street food.",
+            "One of the most visited cities in Germany with a rich history."
+        ],
+        "fun_fact": [
+            "Berlin has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Berlin is a must-visit attraction."
+        ],
+        "trivia": [
+            "Berlin is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Berlin is one of the most efficient in Germany."
+        ]
+    },
+    {
+        "city": "Madrid",
+        "country": "Spain",
+        "clues": [
+            "This city is famous for its madrid street food.",
+            "One of the most visited cities in Spain with a rich history."
+        ],
+        "fun_fact": [
+            "Madrid has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Madrid is a must-visit attraction."
+        ],
+        "trivia": [
+            "Madrid is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Madrid is one of the most efficient in Spain."
+        ]
+    },
+    {
+        "city": "Cairo",
+        "country": "Egypt",
+        "clues": [
+            "This city is famous for its cairo street food.",
+            "One of the most visited cities in Egypt with a rich history."
+        ],
+        "fun_fact": [
+            "Cairo has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Cairo is a must-visit attraction."
+        ],
+        "trivia": [
+            "Cairo is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Cairo is one of the most efficient in Egypt."
+        ]
+    },
+    {
+        "city": "Cape Town",
+        "country": "South Africa",
+        "clues": [
+            "This city is famous for its cape town street food.",
+            "One of the most visited cities in South Africa with a rich history."
+        ],
+        "fun_fact": [
+            "Cape Town has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Cape Town is a must-visit attraction."
+        ],
+        "trivia": [
+            "Cape Town is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Cape Town is one of the most efficient in South Africa."
+        ]
+    },
+    {
+        "city": "Singapore",
+        "country": "Singapore",
+        "clues": [
+            "This city is famous for its singapore street food.",
+            "One of the most visited cities in Singapore with a rich history."
+        ],
+        "fun_fact": [
+            "Singapore has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Singapore is a must-visit attraction."
+        ],
+        "trivia": [
+            "Singapore is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Singapore is one of the most efficient in Singapore."
+        ]
+    },
+    {
+        "city": "Los Angeles",
+        "country": "USA",
+        "clues": [
+            "This city is famous for its los angeles street food.",
+            "One of the most visited cities in USA with a rich history."
+        ],
+        "fun_fact": [
+            "Los Angeles has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Los Angeles is a must-visit attraction."
+        ],
+        "trivia": [
+            "Los Angeles is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Los Angeles is one of the most efficient in USA."
+        ]
+    },
+    {
+        "city": "Chicago",
+        "country": "USA",
+        "clues": [
+            "This city is famous for its chicago street food.",
+            "One of the most visited cities in USA with a rich history."
+        ],
+        "fun_fact": [
+            "Chicago has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Chicago is a must-visit attraction."
+        ],
+        "trivia": [
+            "Chicago is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Chicago is one of the most efficient in USA."
+        ]
+    },
+    {
+        "city": "San Francisco",
+        "country": "USA",
+        "clues": [
+            "This city is famous for its san francisco street food.",
+            "One of the most visited cities in USA with a rich history."
+        ],
+        "fun_fact": [
+            "San Francisco has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in San Francisco is a must-visit attraction."
+        ],
+        "trivia": [
+            "San Francisco is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in San Francisco is one of the most efficient in USA."
+        ]
+    },
+    {
+        "city": "Mexico City",
+        "country": "Mexico",
+        "clues": [
+            "This city is famous for its mexico city street food.",
+            "One of the most visited cities in Mexico with a rich history."
+        ],
+        "fun_fact": [
+            "Mexico City has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Mexico City is a must-visit attraction."
+        ],
+        "trivia": [
+            "Mexico City is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Mexico City is one of the most efficient in Mexico."
+        ]
+    },
+    {
+        "city": "Moscow",
+        "country": "Russia",
+        "clues": [
+            "This city is famous for its moscow street food.",
+            "One of the most visited cities in Russia with a rich history."
+        ],
+        "fun_fact": [
+            "Moscow has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Moscow is a must-visit attraction."
+        ],
+        "trivia": [
+            "Moscow is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Moscow is one of the most efficient in Russia."
+        ]
+    },
+    {
+        "city": "Athens",
+        "country": "Greece",
+        "clues": [
+            "This city is famous for its athens street food.",
+            "One of the most visited cities in Greece with a rich history."
+        ],
+        "fun_fact": [
+            "Athens has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Athens is a must-visit attraction."
+        ],
+        "trivia": [
+            "Athens is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Athens is one of the most efficient in Greece."
+        ]
+    },
+    {
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "clues": [
+            "This city is famous for its amsterdam street food.",
+            "One of the most visited cities in Netherlands with a rich history."
+        ],
+        "fun_fact": [
+            "Amsterdam has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Amsterdam is a must-visit attraction."
+        ],
+        "trivia": [
+            "Amsterdam is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Amsterdam is one of the most efficient in Netherlands."
+        ]
+    },
+    {
+        "city": "Vienna",
+        "country": "Austria",
+        "clues": [
+            "This city is famous for its vienna street food.",
+            "One of the most visited cities in Austria with a rich history."
+        ],
+        "fun_fact": [
+            "Vienna has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Vienna is a must-visit attraction."
+        ],
+        "trivia": [
+            "Vienna is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Vienna is one of the most efficient in Austria."
+        ]
+    },
+    {
+        "city": "Lisbon",
+        "country": "Portugal",
+        "clues": [
+            "This city is famous for its lisbon street food.",
+            "One of the most visited cities in Portugal with a rich history."
+        ],
+        "fun_fact": [
+            "Lisbon has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Lisbon is a must-visit attraction."
+        ],
+        "trivia": [
+            "Lisbon is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Lisbon is one of the most efficient in Portugal."
+        ]
+    },
+    {
+        "city": "Prague",
+        "country": "Czech Republic",
+        "clues": [
+            "This city is famous for its prague street food.",
+            "One of the most visited cities in Czech Republic with a rich history."
+        ],
+        "fun_fact": [
+            "Prague has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Prague is a must-visit attraction."
+        ],
+        "trivia": [
+            "Prague is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Prague is one of the most efficient in Czech Republic."
+        ]
+    },
+    {
+        "city": "Hanoi",
+        "country": "Vietnam",
+        "clues": [
+            "This city is famous for its hanoi street food.",
+            "One of the most visited cities in Vietnam with a rich history."
+        ],
+        "fun_fact": [
+            "Hanoi has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Hanoi is a must-visit attraction."
+        ],
+        "trivia": [
+            "Hanoi is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Hanoi is one of the most efficient in Vietnam."
+        ]
+    },
+    {
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "clues": [
+            "This city is famous for its kuala lumpur street food.",
+            "One of the most visited cities in Malaysia with a rich history."
+        ],
+        "fun_fact": [
+            "Kuala Lumpur has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Kuala Lumpur is a must-visit attraction."
+        ],
+        "trivia": [
+            "Kuala Lumpur is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Kuala Lumpur is one of the most efficient in Malaysia."
+        ]
+    },
+    {
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "clues": [
+            "This city is famous for its buenos aires street food.",
+            "One of the most visited cities in Argentina with a rich history."
+        ],
+        "fun_fact": [
+            "Buenos Aires has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Buenos Aires is a must-visit attraction."
+        ],
+        "trivia": [
+            "Buenos Aires is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Buenos Aires is one of the most efficient in Argentina."
+        ]
+    },
+    {
+        "city": "Lima",
+        "country": "Peru",
+        "clues": [
+            "This city is famous for its lima street food.",
+            "One of the most visited cities in Peru with a rich history."
+        ],
+        "fun_fact": [
+            "Lima has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Lima is a must-visit attraction."
+        ],
+        "trivia": [
+            "Lima is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Lima is one of the most efficient in Peru."
+        ]
+    },
+    {
+        "city": "Stockholm",
+        "country": "Sweden",
+        "clues": [
+            "This city is famous for its stockholm street food.",
+            "One of the most visited cities in Sweden with a rich history."
+        ],
+        "fun_fact": [
+            "Stockholm has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Stockholm is a must-visit attraction."
+        ],
+        "trivia": [
+            "Stockholm is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Stockholm is one of the most efficient in Sweden."
+        ]
+    },
+    {
+        "city": "Helsinki",
+        "country": "Finland",
+        "clues": [
+            "This city is famous for its helsinki street food.",
+            "One of the most visited cities in Finland with a rich history."
+        ],
+        "fun_fact": [
+            "Helsinki has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Helsinki is a must-visit attraction."
+        ],
+        "trivia": [
+            "Helsinki is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Helsinki is one of the most efficient in Finland."
+        ]
+    },
+    {
+        "city": "Oslo",
+        "country": "Norway",
+        "clues": [
+            "This city is famous for its oslo street food.",
+            "One of the most visited cities in Norway with a rich history."
+        ],
+        "fun_fact": [
+            "Oslo has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Oslo is a must-visit attraction."
+        ],
+        "trivia": [
+            "Oslo is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Oslo is one of the most efficient in Norway."
+        ]
+    },
+    {
+        "city": "Dublin",
+        "country": "Ireland",
+        "clues": [
+            "This city is famous for its dublin street food.",
+            "One of the most visited cities in Ireland with a rich history."
+        ],
+        "fun_fact": [
+            "Dublin has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Dublin is a must-visit attraction."
+        ],
+        "trivia": [
+            "Dublin is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Dublin is one of the most efficient in Ireland."
+        ]
+    },
+    {
+        "city": "Venice",
+        "country": "Italy",
+        "clues": [
+            "This city is famous for its venice street food.",
+            "One of the most visited cities in Italy with a rich history."
+        ],
+        "fun_fact": [
+            "Venice has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Venice is a must-visit attraction."
+        ],
+        "trivia": [
+            "Venice is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Venice is one of the most efficient in Italy."
+        ]
+    },
+    {
+        "city": "Edinburgh",
+        "country": "Scotland",
+        "clues": [
+            "This city is famous for its edinburgh street food.",
+            "One of the most visited cities in Scotland with a rich history."
+        ],
+        "fun_fact": [
+            "Edinburgh has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Edinburgh is a must-visit attraction."
+        ],
+        "trivia": [
+            "Edinburgh is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Edinburgh is one of the most efficient in Scotland."
+        ]
+    },
+    {
+        "city": "Zurich",
+        "country": "Switzerland",
+        "clues": [
+            "This city is famous for its zurich street food.",
+            "One of the most visited cities in Switzerland with a rich history."
+        ],
+        "fun_fact": [
+            "Zurich has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Zurich is a must-visit attraction."
+        ],
+        "trivia": [
+            "Zurich is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Zurich is one of the most efficient in Switzerland."
+        ]
+    },
+    {
+        "city": "Brussels",
+        "country": "Belgium",
+        "clues": [
+            "This city is famous for its brussels street food.",
+            "One of the most visited cities in Belgium with a rich history."
+        ],
+        "fun_fact": [
+            "Brussels has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Brussels is a must-visit attraction."
+        ],
+        "trivia": [
+            "Brussels is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Brussels is one of the most efficient in Belgium."
+        ]
+    },
+    {
+        "city": "Manila",
+        "country": "Philippines",
+        "clues": [
+            "This city is famous for its manila street food.",
+            "One of the most visited cities in Philippines with a rich history."
+        ],
+        "fun_fact": [
+            "Manila has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Manila is a must-visit attraction."
+        ],
+        "trivia": [
+            "Manila is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Manila is one of the most efficient in Philippines."
+        ]
+    },
+    {
+        "city": "Hong Kong",
+        "country": "China",
+        "clues": [
+            "This city is famous for its hong kong street food.",
+            "One of the most visited cities in China with a rich history."
+        ],
+        "fun_fact": [
+            "Hong Kong has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Hong Kong is a must-visit attraction."
+        ],
+        "trivia": [
+            "Hong Kong is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Hong Kong is one of the most efficient in China."
+        ]
+    },
+    {
+        "city": "Shanghai",
+        "country": "China",
+        "clues": [
+            "This city is famous for its shanghai street food.",
+            "One of the most visited cities in China with a rich history."
+        ],
+        "fun_fact": [
+            "Shanghai has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Shanghai is a must-visit attraction."
+        ],
+        "trivia": [
+            "Shanghai is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Shanghai is one of the most efficient in China."
+        ]
+    },
+    {
+        "city": "Jakarta",
+        "country": "Indonesia",
+        "clues": [
+            "This city is famous for its jakarta street food.",
+            "One of the most visited cities in Indonesia with a rich history."
+        ],
+        "fun_fact": [
+            "Jakarta has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Jakarta is a must-visit attraction."
+        ],
+        "trivia": [
+            "Jakarta is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Jakarta is one of the most efficient in Indonesia."
+        ]
+    },
+    {
+        "city": "Casablanca",
+        "country": "Morocco",
+        "clues": [
+            "This city is famous for its casablanca street food.",
+            "One of the most visited cities in Morocco with a rich history."
+        ],
+        "fun_fact": [
+            "Casablanca has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Casablanca is a must-visit attraction."
+        ],
+        "trivia": [
+            "Casablanca is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Casablanca is one of the most efficient in Morocco."
+        ]
+    },
+    {
+        "city": "Istanbul",
+        "country": "Turkey",
+        "clues": [
+            "This city is famous for its istanbul street food.",
+            "One of the most visited cities in Turkey with a rich history."
+        ],
+        "fun_fact": [
+            "Istanbul has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Istanbul is a must-visit attraction."
+        ],
+        "trivia": [
+            "Istanbul is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Istanbul is one of the most efficient in Turkey."
+        ]
+    },
+    {
+        "city": "Reykjavik",
+        "country": "Iceland",
+        "clues": [
+            "This city is famous for its reykjavik street food.",
+            "One of the most visited cities in Iceland with a rich history."
+        ],
+        "fun_fact": [
+            "Reykjavik has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Reykjavik is a must-visit attraction."
+        ],
+        "trivia": [
+            "Reykjavik is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Reykjavik is one of the most efficient in Iceland."
+        ]
+    },
+    {
+        "city": "Kyoto",
+        "country": "Japan",
+        "clues": [
+            "This city is famous for its kyoto street food.",
+            "One of the most visited cities in Japan with a rich history."
+        ],
+        "fun_fact": [
+            "Kyoto has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Kyoto is a must-visit attraction."
+        ],
+        "trivia": [
+            "Kyoto is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Kyoto is one of the most efficient in Japan."
+        ]
+    },
+    {
+        "city": "Sao Paulo",
+        "country": "Brazil",
+        "clues": [
+            "This city is famous for its sao paulo street food.",
+            "One of the most visited cities in Brazil with a rich history."
+        ],
+        "fun_fact": [
+            "Sao Paulo has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Sao Paulo is a must-visit attraction."
+        ],
+        "trivia": [
+            "Sao Paulo is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Sao Paulo is one of the most efficient in Brazil."
+        ]
+    },
+    {
+        "city": "Bogota",
+        "country": "Colombia",
+        "clues": [
+            "This city is famous for its bogota street food.",
+            "One of the most visited cities in Colombia with a rich history."
+        ],
+        "fun_fact": [
+            "Bogota has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Bogota is a must-visit attraction."
+        ],
+        "trivia": [
+            "Bogota is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Bogota is one of the most efficient in Colombia."
+        ]
+    },
+    {
+        "city": "Doha",
+        "country": "Qatar",
+        "clues": [
+            "This city is famous for its doha street food.",
+            "One of the most visited cities in Qatar with a rich history."
+        ],
+        "fun_fact": [
+            "Doha has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Doha is a must-visit attraction."
+        ],
+        "trivia": [
+            "Doha is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Doha is one of the most efficient in Qatar."
+        ]
+    },
+    {
+        "city": "Tel Aviv",
+        "country": "Israel",
+        "clues": [
+            "This city is famous for its tel aviv street food.",
+            "One of the most visited cities in Israel with a rich history."
+        ],
+        "fun_fact": [
+            "Tel Aviv has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Tel Aviv is a must-visit attraction."
+        ],
+        "trivia": [
+            "Tel Aviv is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Tel Aviv is one of the most efficient in Israel."
+        ]
+    },
+    {
+        "city": "Havana",
+        "country": "Cuba",
+        "clues": [
+            "This city is famous for its havana street food.",
+            "One of the most visited cities in Cuba with a rich history."
+        ],
+        "fun_fact": [
+            "Havana has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Havana is a must-visit attraction."
+        ],
+        "trivia": [
+            "Havana is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Havana is one of the most efficient in Cuba."
+        ]
+    },
+    {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "clues": [
+            "This city is famous for its marrakech street food.",
+            "One of the most visited cities in Morocco with a rich history."
+        ],
+        "fun_fact": [
+            "Marrakech has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Marrakech is a must-visit attraction."
+        ],
+        "trivia": [
+            "Marrakech is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Marrakech is one of the most efficient in Morocco."
+        ]
+    },
+    {
+        "city": "New Delhi",
+        "country": "India",
+        "clues": [
+            "This city is famous for its new delhi street food.",
+            "One of the most visited cities in India with a rich history."
+        ],
+        "fun_fact": [
+            "New Delhi has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in New Delhi is a must-visit attraction."
+        ],
+        "trivia": [
+            "New Delhi is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in New Delhi is one of the most efficient in India."
+        ]
+    },
+    {
+        "city": "Baku",
+        "country": "Azerbaijan",
+        "clues": [
+            "This city is famous for its baku street food.",
+            "One of the most visited cities in Azerbaijan with a rich history."
+        ],
+        "fun_fact": [
+            "Baku has a unique architectural style blending tradition and modernity.",
+            "One of the famous landmarks in Baku is a must-visit attraction."
+        ],
+        "trivia": [
+            "Baku is known for its vibrant festivals celebrated throughout the year.",
+            "The public transportation in Baku is one of the most efficient in Azerbaijan."
+        ]
+    }
+]

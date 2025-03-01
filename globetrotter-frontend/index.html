@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Globetrotter - Travel Guessing Game</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.4.0/dist/confetti.browser.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Globetrotter</h1>
+            <p>Guess the destination from the clues!</p>
+        </header>
+
+        <!-- Welcome Screen -->
+        <div id="welcome-screen" class="game-section">
+            <h2>Welcome to Globetrotter!</h2>
+            <p>Test your knowledge of world destinations</p>
+            
+            <div class="form-group">
+                <label for="username">Enter a unique username:</label>
+                <input type="text" id="username" placeholder="YourUsername">
+                <button id="register-btn">Start Playing</button>
+            </div>
+            
+            <!-- Invite section -->
+            <div id="invite-section" class="hidden">
+                <p>Challenge a friend with your invite link:</p>
+                <div class="invite-link-container">
+                    <input type="text" id="invite-link" readonly>
+                    <button id="copy-link-btn">Copy</button>
+                </div>
+                <button id="share-whatsapp-btn" class="share-btn">Share on WhatsApp</button>
+            </div>
+            
+            <!-- Invited by friend section -->
+            <div id="invited-by-section" class="hidden">
+                <p>You've been challenged by <span id="inviter-name"></span>!</p>
+                <p>Their score: <span id="inviter-score"></span></p>
+                <p>Can you beat them?</p>
+            </div>
+        </div>
+
+        <!-- Game Screen -->
+        <div id="game-screen" class="game-section hidden">
+            <div class="score-display">
+                <p>Score: <span id="user-score">0</span></p>
+            </div>
+            
+            <div class="clues-container">
+                <h3>Clues:</h3>
+                <ul id="clues-list"></ul>
+            </div>
+            
+            <div class="options-container">
+                <h3>Where am I?</h3>
+                <div id="options-list" class="options-grid"></div>
+            </div>
+        </div>
+
+        <!-- Result Screen -->
+        <div id="result-screen" class="game-section hidden">
+            <div id="correct-answer" class="hidden">
+                <h2 class="animate__animated animate__bounceIn">Correct!</h2>
+                <div id="confetti-container"></div>
+            </div>
+            
+            <div id="incorrect-answer" class="hidden">
+                <h2 class="animate__animated animate__shakeX">Oops! Not quite...</h2>
+                <p>The correct answer was: <span id="correct-destination"></span></p>
+            </div>
+            
+            <div class="destination-details">
+                <h3 id="destination-name"></h3>
+                <img id="destination-image" src="" alt="Destination Image">
+                
+                <div class="fun-facts">
+                    <h4>Fun Facts:</h4>
+                    <ul id="fun-facts-list"></ul>
+                </div>
+            </div>
+            
+            <button id="next-question-btn" class="action-btn">Next Question</button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
