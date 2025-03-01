@@ -14,6 +14,7 @@ import org.springframework.stereotype.Component;
 
 import java.io.File;
 import java.io.IOException;
+import java.io.InputStream;
 import java.util.List;
 import java.util.Map;
 
@@ -34,8 +35,8 @@ public class DataInitializer implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         // Load JSON file
-        File jsonFile = new ClassPathResource("expanded_data.json").getFile();
-        List<Map<String, Object>> destinations = readJsonFile(jsonFile);
+        InputStream inputStream = new ClassPathResource("expanded_data.json").getInputStream();
+        List<Map<String, Object>> destinations = readJsonFile(inputStream);
 
         for (Map<String, Object> entry : destinations) {
             try {
@@ -63,7 +64,9 @@ public class DataInitializer implements CommandLineRunner {
         }
     }
 
-    private List<Map<String, Object>> readJsonFile(File file) throws IOException {
-        return objectMapper.readValue(file, new TypeReference<>() {});
+    private List<Map<String, Object>> readJsonFile(InputStream inputStream) throws IOException {
+        ObjectMapper objectMapper = new ObjectMapper();
+        return objectMapper.readValue(inputStream, new TypeReference<>() {});
     }
+
 }
