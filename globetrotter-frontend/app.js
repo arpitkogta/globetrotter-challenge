@@ -1,5 +1,5 @@
 // API Base URL - Change this to your Spring Boot server URL
-const API_BASE_URL = 'http://localhost:8080/api';
+const API_BASE_URL = 'https://globetrotter-challenge-production.up.railway.app/api';
 
 // State management
 let state = {
