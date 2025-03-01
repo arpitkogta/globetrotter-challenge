@@ -272,22 +272,6 @@
         ]
     },
     {
-        "city": "London",
-        "country": "United Kingdom",
-        "clues": [
-            "This city is famous for its london street food.",
-            "One of the most visited cities in United Kingdom with a rich history."
-        ],
-        "fun_fact": [
-            "London has a unique architectural style blending tradition and modernity.",
-            "One of the famous landmarks in London is a must-visit attraction."
-        ],
-        "trivia": [
-            "London is known for its vibrant festivals celebrated throughout the year.",
-            "The public transportation in London is one of the most efficient in United Kingdom."
-        ]
-    },
-    {
         "city": "Rome",
         "country": "Italy",
         "clues": [
@@ -333,22 +317,6 @@
         "trivia": [
             "Dubai is known for its vibrant festivals celebrated throughout the year.",
             "The public transportation in Dubai is one of the most efficient in UAE."
-        ]
-    },
-    {
-        "city": "Istanbul",
-        "country": "Turkey",
-        "clues": [
-            "This city is famous for its istanbul street food.",
-            "One of the most visited cities in Turkey with a rich history."
-        ],
-        "fun_fact": [
-            "Istanbul has a unique architectural style blending tradition and modernity.",
-            "One of the famous landmarks in Istanbul is a must-visit attraction."
-        ],
-        "trivia": [
-            "Istanbul is known for its vibrant festivals celebrated throughout the year.",
-            "The public transportation in Istanbul is one of the most efficient in Turkey."
         ]
     },
     {
